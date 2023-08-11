@@ -1,0 +1,2 @@
+body{margin:0;padding:0}.stopwatch{display:flex;position:absolute;justify-content:center;width:80vmin;height:80vmin;border-style:dotted;border-radius:50%;left:50%;top:50%;transform:translate(-50%,-50%)}.stopwatch__min{width:2%;background:#000;animation:spin 60s linear infinite}.stopwatch__min,.stopwatch__sec{position:absolute;height:50%;transform-origin:bottom}.stopwatch__sec{width:1%;background:red;animation:spin 5s linear infinite}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.6b4e1a3b.css.map */
